@@ -1,0 +1,20 @@
+{
+  "name": "estveritatis",
+  "version": "1.0.0",
+  "description": "JS library that allows you to easily serialize and deserialize data with BigInt values",
+  "type": "module",
+  "exports": "./json-with-bigint.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MyaLind/estveritatis.git"
+  },
+  "keywords": [
+    "JSON",
+    "BigInt",
+    "js",
+    "rerum",
+    "perspiciatis"
+  ],
+  "author": "AdrianaGottlieb",
+  "license": "MIT"
+}
